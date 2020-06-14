@@ -20,6 +20,10 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 
 ## Pitch Video
 __________________________________________________________________________________
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=j70AA9arThc
-" target="_blank"><img src="KyZdkCT - Imgur.png" 
-alt="Pitch Video" width="240" height="180" border="10" /></a>
+
+## The architecture
+
+__________________________________________________________________________________
+
+## Long description
+__________________________________________________________________________________
