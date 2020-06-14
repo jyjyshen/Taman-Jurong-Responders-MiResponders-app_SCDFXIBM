@@ -20,4 +20,4 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 
 ## Pitch Video
 __________________________________________________________________________________
-[![Pitch Video](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Screenshot(5).png "Logo Title Text 1")
