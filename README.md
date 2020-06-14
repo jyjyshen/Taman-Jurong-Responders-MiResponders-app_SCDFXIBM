@@ -21,5 +21,5 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 ## Pitch Video
 __________________________________________________________________________________
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Frp_PKU5InY
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HEREFrp_PKU5InY/0.jpg" 
-alt="https://imgur.com/KyZdkCT" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://imgur.com/KyZdkCT" 
+alt="Screenshot(5)" width="240" height="180" border="10" /></a>
