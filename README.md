@@ -59,7 +59,5 @@ ________________________________________________________________________________
 * [IBM Watson IoT Platform](https://cloud.ibm.com/catalog?search=internet%20of%20things#search_results) - Processes data
 * [IBM Cloud Object Storage](https://cloud.ibm.com/catalog?search=object%20storage%20#search_results) - Backs up data
 * [IBM Watson Machine Learning](https://cloud.ibm.com/catalog?search=machine%20learning#search_results) - Assesses heart rhythmn and fall motion
-* [IBM Cloud Kubernetes Service](https://cloud.ibm.com/catalog?search=cloud%20kubernates#search_results) - Creates cluster to manage resources used 
-* [IBM Cognos Analytics](https://www.ibm.com/sg-en/products/cognos-analytics) - Analyses data
 * [NODE Red](https://nodered.org/) - Facilitates communication between IBM services and front end services
 
