@@ -10,14 +10,16 @@ Presently, SCDF will only know of suspected cardiac arrest cases if someone (a N
 
 ### How can technology help?
 
-The use of sensors presented in the form of a smartwatch can help to monitor the heart rate and fall motion of the elderly. The smartwatch can also act as a SOS helpline in the form of a button which the wearer can activate if he/she falls and is unable to get up. Should a cardiac arrest or a fall occur, an alert will be sent to nearby CFRs via the myResponder app as well as SCDF.  If the subject is in his/ her house, responders who accept the case will receive a message with the OTP needed to unlock the smart door to gain access to provide assistance. This allows CFRs to be mobilised for effective early intervention, which will help in delivering the best chances of survival and recovery
+<p align="justify">
+The use of sensors presented in the form of a smartwatch can help to monitor the heart rate and fall motion of the elderly. The smartwatch can also act as a SOS helpline in the form of a button which the wearer can activate if he/she falls and is unable to get up. Should a cardiac arrest or a fall occur, an alert will be sent to nearby CFRs via the myResponder app as well as SCDF.  If the subject is in his/ her house, responders who accept the case will receive a message with the OTP needed to unlock the smart door to gain access to provide assistance. This allows CFRs to be mobilised for effective early intervention, which will help in delivering the best chances of survival and recovery</p>
 
 ### The idea
 
-It is imperative that we as responders look out for the vulnerable. Our solution can provide elderlies living alone with the independence and privacy they desire while ensuring responders can be alerted at the onset of incidents which require emergency response. Various sensors, backed by IBM Cloud and Watson Services, will enable CFRs to be mobilised for effective early intervention.
+<p align="justify">
+It is imperative that we as responders look out for the vulnerable. Our solution can provide elderlies living alone with the independence and privacy they desire while ensuring responders can be alerted at the onset of incidents which require emergency response. Various sensors, backed by IBM Cloud and Watson Services, will enable CFRs to be mobilised for effective early intervention. </p>
 
 ## Pitch Video
 __________________________________________________________________________________
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Frp_PKU5InY
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HEREFrp_PKU5InY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Pitch Video" width="240" height="180" border="10" /></a>
