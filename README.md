@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 ### What's the problem?
 
-<p align="center">
+<p align="justify">
 Presently, SCDF will only know of suspected cardiac arrest cases if someone (a NOK or a passerby) witnesses the incident and contacts SCDF, through which an alert to nearby CFRs are sent out via the myResponder app. However, with an increasingly aging population, there is an upwards trend of elderly living alone or being alone in the day when the family is out at work or school. Hence, when incidents which require emergency response, such as if an elderly suffers a cardiac arrest or falls occurs when no one is around to help, such as at home or in public toilets, SCDF and CFRs would not be alerted to these incidents, perhaps until it is too late. In such cases, it is almost impossible for early intervention to take place </p>
 
 ### How can technology help?
