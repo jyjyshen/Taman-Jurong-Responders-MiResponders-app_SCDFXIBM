@@ -1,4 +1,4 @@
-# Taman-Jurong-Responders-Miresponder-app_SCDFXIBM
+# Taman-Jurong-Responders-Miresponders-app_SCDFXIBM
 We are team Taman Jurong Responders consisting of Jeremy, Baron, Jia Jing and Jiaying
 
 ___________________________________________________________________________________
