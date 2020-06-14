@@ -33,6 +33,16 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 __________________________________________________________________________________
 
 ## The architecture
+![Flow](https://github.com/jyjyshen/Taman-Jurong-Responders-MiResponders-app_SCDFXIBM/blob/master/images/D27AC9EF-7A74-4D59-A0D4-FFB28175DF13.jpeg)
+
+###Scenario of an elderly having a heart attack at home
+
+1. ECG/HeartRate Tracker will detect Ventricular Fibrillation or irregular heartrate.
+2. Data gathered by ECG/HeartRate Tracker will be transmitted to IBM Cloud
+3. IBM Watson IoT™ Platform will process the data.
+4. IBM Watson Machine Learning will create and deploy self-learning risk analysis algorithms, which will assess users’ ECG/HeartRate readings for indications of impending heart events such as cardiac arrest, stroke and ischemia.
+5. Risk analysis algorithms will then be backed up to IBM Cloud Object Storage to further monitor the patient
+6. Node Red will then activate a beeping sound to the wearable as well as sending a signal/message to SCDF Operations Centre for ambulance activation and MyResponder app to alert nearby community First Responder.
 
 __________________________________________________________________________________
 
