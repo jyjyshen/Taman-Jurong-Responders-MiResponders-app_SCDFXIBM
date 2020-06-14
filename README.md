@@ -22,4 +22,4 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 __________________________________________________________________________________
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Frp_PKU5InY
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HEREFrp_PKU5InY/0.jpg" 
-alt="Pitch Video" width="240" height="180" border="10" /></a>
+alt="https://imgur.com/KyZdkCT" width="240" height="180" border="10" /></a>
