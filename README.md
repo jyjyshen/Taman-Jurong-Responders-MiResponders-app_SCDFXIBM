@@ -1,7 +1,17 @@
 # Taman-Jurong-Responders-MiResponders-app_SCDFXIBM
 We are team Taman Jurong Responders consisting of Jeremy, Baron, Jia Jing and Jiaying
 
+
+## Contents
+
+1. [Short description](#short-description)
+1. [Video pitch](#video-pitch)
+1. [The architecture](#the-architecture)
+1. [Detailed solution](#detailed-solution)
+1. [Getting started](#getting-started)
+1. [Built with](#built-with)
 ___________________________________________________________________________________
+## Short description
 
 ### What's the problem?
 
@@ -18,7 +28,7 @@ The use of sensors presented in the form of a smartwatch can help to monitor the
 <p align="justify">
 It is imperative that we as responders look out for the vulnerable. Our solution can provide elderlies living alone with the independence and privacy they desire while ensuring responders can be alerted at the onset of incidents which require emergency response. Various sensors, backed by IBM Cloud and Watson Services, will enable CFRs to be mobilised for effective early intervention. </p>
 
-## Pitch Video
+## Video pitch
 [![Watch the video](https://github.com/jyjyshen/Taman-Jurong-Responders-Miresponder-app_SCDFXIBM/blob/master/images/KyZdkCT%20-%20Imgur.png)](https://youtu.be/Frp_PKU5InY)
 __________________________________________________________________________________
 
