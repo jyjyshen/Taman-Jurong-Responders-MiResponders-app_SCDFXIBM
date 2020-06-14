@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ## The architecture
 ![Flow](https://github.com/jyjyshen/Taman-Jurong-Responders-MiResponders-app_SCDFXIBM/blob/master/images/D27AC9EF-7A74-4D59-A0D4-FFB28175DF13.jpeg)
 
-###Scenario of an elderly having a heart attack at home
+### Scenario of an elderly having a heart attack at home
 
 1. ECG/HeartRate Tracker will detect Ventricular Fibrillation or irregular heartrate.
 2. Data gathered by ECG/HeartRate Tracker will be transmitted to IBM Cloud
