@@ -20,4 +20,6 @@ It is imperative that we as responders look out for the vulnerable. Our solution
 
 ## Pitch Video
 __________________________________________________________________________________
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Screenshot(5).png "Logo Title Text 1")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j70AA9arThc
+" target="_blank"><img src="KyZdkCT - Imgur.png" 
+alt="Pitch Video" width="240" height="180" border="10" /></a>
