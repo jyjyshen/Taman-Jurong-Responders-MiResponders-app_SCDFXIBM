@@ -29,7 +29,7 @@ The use of sensors presented in the form of a smartwatch can help to monitor the
 It is imperative that we as responders look out for the vulnerable. Our solution can provide elderlies living alone with the independence and privacy they desire while ensuring responders can be alerted at the onset of incidents which require emergency response. Various sensors, backed by IBM Cloud and Watson Services, will enable CFRs to be mobilised for effective early intervention. </p>
 
 ## Video pitch
-[![Watch the video](https://github.com/jyjyshen/Taman-Jurong-Responders-MiResponders-app_SCDFXIBM/blob/master/images/Video%20image.png](https://youtu.be/dUJtZkNco4I)
+[![Watch the video](https://github.com/jyjyshen/Taman-Jurong-Responders-MiResponders-app_SCDFXIBM/blob/master/images/Video%20image.png)](https://youtu.be/dUJtZkNco4I)
 __________________________________________________________________________________
 
 ## The architecture
