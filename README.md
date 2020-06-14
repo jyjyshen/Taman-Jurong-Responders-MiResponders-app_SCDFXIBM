@@ -29,3 +29,17 @@ ________________________________________________________________________________
 ## Detailed solution
 [More detail is available here](DESCRIPTION.MD)
 __________________________________________________________________________________
+
+## Getting started
+
+_________________________________________________________________________________
+
+## Built with
+
+* [IBM Watson IoT Platform](https://cloud.ibm.com/catalog?search=internet%20of%20things#search_results) - The processor used
+* [IBM Cloud Object Storage](https://cloud.ibm.com/catalog?search=object%20storage%20#search_results) - Backs up data
+* [IBM Watson Machine Learning](https://cloud.ibm.com/catalog?search=machine%20learning#search_results) - Assess heart rhythmn and fall motion
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
